@@ -1,15 +1,3 @@
-# Beyond-ChatGPT-App
+This contains the contents for the BeyondGPT challenge.
 
----
-
-title: Test App
-emoji: 🦀
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: openrail
-
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+App can be viewed on HuggingFace: https://huggingface.co/spaces/XicoC/Beyond-ChatGPT-App
